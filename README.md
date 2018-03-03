@@ -1,7 +1,9 @@
 # Administração de Banco de Dados
+Blog: https://pessoalex.wordpress.com/
+E-mail: aasouzaconsult@gmail.com
 
 1° Encontro
-
+-----------
 Apresentação
 ------------
 SQL Server - Administração.pdf
@@ -22,3 +24,4 @@ Segurança.sql
 2° Encontro
 -------------------------------------------------------------------
 3° Encontro
+-------------------------------------------------------------------
