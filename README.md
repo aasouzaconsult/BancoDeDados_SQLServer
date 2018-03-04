@@ -31,9 +31,7 @@ Trabalho 1 (Prática)
 Alguns temas sugeridos:
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo)
 - Demonstrar o Linked Server com outro SQL Server (realizar inserts, deletes e consultas de um servidor para o outro) e criar um JOB para um servidor alimentar uma tabela no outro servidor.
-- Simular Locks, consultas pesadas e mostrar no Monitor de Tarefas e/ou através de linha de comando (TSQL)
 - Criar um JOB (SQL Server Agent) para envio de e-mail com informações do Servidor
-- Criar plano de manutenção, um para verificar integridade dos bancos de dados e outro para realização de backup dos bancos de dados (inclusive os de sistemas)
 - Demonstrar o Espelhamento de banco de dados
 - Demonstrar a Replicação de banco de dados
 - Demonstrar o uso do Integration Service (SSIS) - Visão Geral e um exemplo prático
