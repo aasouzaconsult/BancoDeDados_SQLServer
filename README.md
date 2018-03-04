@@ -10,11 +10,16 @@ SQL Server - Administração.pdf
 Dicas
 -----
 - Dicas estudo – Certificação SQL Server Administração.pdf
-- 99. HabilitarFirewall_PortaSQL.txt
+- HabilitarFirewall_PortaSQL.txt
 
 Scripts (.sql)
 -------------
-1. MontagemAmbienteTeste, 2. Segurança, 3. Desempenho, 4. Indices, 5. Auditoria, 6. Criptografia, 
+- 1. MontagemAmbienteTeste
+- 2. Segurança
+- 3. Desempenho
+- 4. Indices
+- 5. Auditoria
+- 6. Criptografia, 
 
 Trabalho proposto
 -----------------
