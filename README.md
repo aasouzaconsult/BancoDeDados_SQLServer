@@ -23,9 +23,10 @@ Scripts (.sql)
 - 5. Auditoria
 - 6. Criptografia, 
 
-Trabalho proposto
------------------
+Trabalho 1 (Prática)
+--------------------
 - Equipe de até 3 pessoas
+- Gentileza me enviar um e-mail (o quanto antes) com as equipes e o tema que irão abordar, os temas abaixo são sugestões, mas se tiverem algum recurso no SQL Server (administração) que usem em seu dia a dia, podem ficar a vontade e sugerir como trabalho.
 
 Alguns temas sugeridos:
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo)
@@ -38,7 +39,6 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Integration Service (SSIS) - Visão Geral e um exemplo prático
 - Demonstrar o uso do Report Server - Visão Geral e um exemplo prático
 
-Gentileza me enviar um e-mail (o quanto antes) com as equipes e o tema que irão abordar, os acima são sugestões, mas se tiverem algum recurso no SQL Server (administração) que usem em seu dia a dia, podem ficar a vontade e sugerir como trabalho.
 -------------------------------------------------------------------
 2° Encontro
 -------------------------------------------------------------------
