@@ -1,5 +1,7 @@
 # Administração de Banco de Dados
-Blog: https://pessoalex.wordpress.com/ - E-mail: aasouzaconsult@gmail.com
+- Alex Souza
+- Blog: https://pessoalex.wordpress.com/
+- E-mail: aasouzaconsult@gmail.com
 
 1° Encontro
 -----------
