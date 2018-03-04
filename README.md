@@ -27,6 +27,7 @@ Trabalho 1 (Prática)
 --------------------
 - Equipe de até 3 pessoas
 - Gentileza me enviar um e-mail (o quanto antes) com as equipes e o tema que irão abordar, os temas abaixo são sugestões, mas se tiverem algum recurso no SQL Server (administração) que usem em seu dia a dia, podem ficar a vontade e sugerir como trabalho.
+- A apresentação dos trabalhos serão no próximo encontro (17.03.2018), onde todos os membros da equipe deverão participar.
 
 Alguns temas sugeridos:
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo)
