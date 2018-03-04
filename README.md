@@ -21,7 +21,7 @@ Scripts (.sql)
 - 3. Desempenho
 - 4. Indices
 - 5. Auditoria
-- 6. Criptografia, 
+- 6. Criptografia
 
 Trabalho 1 (Prática)
 --------------------
