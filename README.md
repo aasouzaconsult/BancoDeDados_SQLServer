@@ -38,6 +38,11 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Integration Service (SSIS) - Visão Geral e um exemplo prático
 - Demonstrar o uso do Report Server - Visão Geral e um exemplo prático
 
+Equipes:
+- Equipe 1 (Diego Carvalho)
+- Equipe 2 (Ilton Junior, Paulo Henrique e Rayan)
+- Equipe 3 (...)
+
 -------------------------------------------------------------------
 2° Encontro
 -------------------------------------------------------------------
