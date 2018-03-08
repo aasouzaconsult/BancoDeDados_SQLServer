@@ -37,11 +37,13 @@ Alguns temas sugeridos:
 - Demonstrar a Replicação de banco de dados
 - Demonstrar o uso do Integration Service (SSIS) - Visão Geral e um exemplo prático **(Equipe 1)**
 - Demonstrar o uso do Report Server - Visão Geral e um exemplo prático
+- Demonstrar como encontrar problemas de desempenho no SQL Server com Profiler e Perfmon **(Equipe 3)**
 
 **Equipes:**
 - Equipe 1 *(Diego Carvalho)*
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
-- Equipe 3 *(...)*
+- Equipe 3 *(Mayara Cristina Ferreira da Silva e Marcos Vinicio de Oliveira)*
+- Equipe 4 *(...)*
 
 -------------------------------------------------------------------
 2° Encontro
