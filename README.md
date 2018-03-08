@@ -42,7 +42,7 @@ Alguns temas sugeridos:
 **Equipes:**
 - Equipe 1 *(Diego Carvalho)*
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
-- Equipe 3 *(Mayara Cristina Ferreira da Silva e Marcos Vinicio de Oliveira)*
+- Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Alcantara)*
 - Equipe 4 *(...)*
 
 -------------------------------------------------------------------
