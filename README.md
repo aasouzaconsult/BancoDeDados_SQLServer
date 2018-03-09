@@ -3,6 +3,11 @@
 - Blog: https://pessoalex.wordpress.com/
 - E-mail: aasouzaconsult@gmail.com
 
+Softwares
+---------
+- SQL Server 2017 - Developer 
+- Power BI Desktop
+
 1° Encontro
 -----------
 Apresentação
