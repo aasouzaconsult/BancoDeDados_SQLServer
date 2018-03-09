@@ -33,10 +33,10 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Integration Service (SSIS) - Visão Geral e um exemplo prático **(Equipe 1)**
 - Criar um JOB (SQL Server Agent) para envio de e-mail com informações do Servidor **(Equipe 2)**
 - Demonstrar como encontrar problemas de desempenho no SQL Server com Profiler e Perfmon **(Equipe 3)**
+- Demonstrar o Linked Server com outro SQL Server (realizar inserts, deletes e consultas de um servidor para o outro) e criar um JOB para um servidor alimentar uma tabela no outro servidor **(Equipe 4)**
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo)
 - Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas)
 - Simular um banco de dados corrompido (mostrar que esta corrompido) e um plano de recovery desse banco de dados
-- Demonstrar o Linked Server com outro SQL Server (realizar inserts, deletes e consultas de um servidor para o outro) e criar um JOB para um servidor alimentar uma tabela no outro servidor
 - Demonstrar o Espelhamento de banco de dados
 - Demonstrar a Replicação de banco de dados
 - Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático
@@ -47,8 +47,8 @@ Alguns temas sugeridos:
 - Equipe 1 *(Diego Carvalho)*
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
 - Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Camara)*
-- Equipe 4 *(...)*
-
+- Equipe 4 *(Michelly)*
+- Equipe 5 *()*
 -------------------------------------------------------------------
 2° Encontro
 -------------------------------------------------------------------
