@@ -8,6 +8,7 @@ Softwares
 - SQL Server 2017 - Developer (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - Power BI Desktop (https://powerbi.microsoft.com/pt-br/desktop/)
 
+--------------------------------------------------------------------------------------------------
 1° Encontro
 -----------
 Apresentação
@@ -54,10 +55,11 @@ Alguns temas sugeridos:
 - Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Camara)*
 - Equipe 4 *(Michelly, Leewan)*
 - Equipe 5 *()*
-
+--------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
 
+--------------------------------------------------------------------------------------------------
 3° Encontro
 -----------
 
