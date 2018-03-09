@@ -17,8 +17,8 @@ SQL Server - Administração.pdf
 
 Dicas
 -----
-- Dicas estudo – Certificação SQL Server Administração.pdf
-- HabilitarFirewall_PortaSQL.txt
+- 7. HabilitarFirewall_PortaSQL.txt
+- 8. Dicas estudo – Certificação SQL Server Administração.pdf
 
 Scripts (.sql)
 -------------
@@ -65,5 +65,5 @@ Alguns temas sugeridos:
 
 Arquivos
 --------
-- BaseDemonstracao.xlsx
-- BaseDemonstracao_Produto.xlsx
+- 99. BaseDemonstracao.xlsx
+- 99. BaseDemonstracao_Produto.xlsx
