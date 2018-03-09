@@ -54,7 +54,7 @@ Alguns temas sugeridos:
 - Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Camara)*
 - Equipe 4 *(Michelly, Leewan)*
 - Equipe 5 *()*
--------------------------------------------------------------------
+
 2° Encontro
 -----------
 
