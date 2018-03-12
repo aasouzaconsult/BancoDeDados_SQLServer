@@ -40,8 +40,8 @@ Alguns temas sugeridos:
 - Criar um JOB (SQL Server Agent) para envio de e-mail com informações do Servidor **(Equipe 2)**
 - Demonstrar como encontrar problemas de desempenho no SQL Server com Profiler e Perfmon **(Equipe 3)**
 - Demonstrar o Linked Server com outro SQL Server (realizar inserts, deletes e consultas de um servidor para o outro) e criar um JOB para um servidor alimentar uma tabela no outro servidor **(Equipe 4)**
+- Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas) **(Equipe 5)** 
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo)
-- Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas)
 - Simular um banco de dados corrompido (mostrar que esta corrompido) e um plano de recovery desse banco de dados
 - Demonstrar o Espelhamento de banco de dados
 - Demonstrar a Replicação de banco de dados
@@ -54,7 +54,7 @@ Alguns temas sugeridos:
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
 - Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Camara)*
 - Equipe 4 *(Michelly e Leewan)*
-- Equipe 5 *()*
+- Equipe 5 *(Maria de Fátima e Romário Cesar)*
 --------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
