@@ -51,7 +51,7 @@ Alguns temas sugeridos:
 
 **Equipes:**
 - Equipe 1 *(Diego Carvalho e Weskley Matos)*
-- Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
+- Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan Carvalho*)*
 - Equipe 3 *(Marcos Vinicio, Mayara Cristina e Diego Camara)*
 - Equipe 4 *(Michelly Sodre e Leewan Alves)*
 - Equipe 5 *(Maria de Fátima e Romário Cesar)*
