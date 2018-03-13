@@ -43,7 +43,7 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas) **(Equipe 5)** 
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo) **(Equipe 6)** 
 - Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)**
-- Instalação do SQL Server no LINUX, arquivos de configuração, uso da memória pelo SQL Server e mais informações sobre.
+- Demonstrar a Instalação do SQL Server no LINUX, arquivos de configuração, uso da memória pelo SQL Server e mais informações sobre. (Montar um passo a passo)
 - Demonstrar o Espelhamento de banco de dados
 - Demonstrar o uso do Resource Governor
 - Demonstrar o uso do Gerenciador de Políticas
