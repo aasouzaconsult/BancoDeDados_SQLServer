@@ -50,12 +50,12 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Gerenciador de Políticas
 
 **Equipes:**
-- Equipe 1 *(Diego Carvalho e Weskley)*
+- Equipe 1 *(Diego Carvalho e Weskley Matos)*
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan)*
-- Equipe 3 *(Marcos Vinicio de Oliveira, Mayara Cristina Ferreira da Silva e Diego Camara)*
-- Equipe 4 *(Michelly e Leewan)*
+- Equipe 3 *(Marcos Vinicio, Mayara Cristina e Diego Camara)*
+- Equipe 4 *(Michelly Sodre e Leewan Alves)*
 - Equipe 5 *(Maria de Fátima e Romário Cesar)*
-- Equipe 6 *(Joelton, Yarlisson e Paulo)*
+- Equipe 6 *(Joelton Maia, Yarlisson Neves e Paulo Rubens)*
 --------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
