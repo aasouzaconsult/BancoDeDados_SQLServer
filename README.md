@@ -42,10 +42,9 @@ Alguns temas sugeridos:
 - Demonstrar o Linked Server com outro SQL Server (realizar inserts, deletes e consultas de um servidor para o outro) e criar um JOB para um servidor alimentar uma tabela no outro servidor **(Equipe 4)**
 - Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas) **(Equipe 5)** 
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo) **(Equipe 6)** 
-- Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)** 
-- Simular um banco de dados corrompido (mostrar que esta corrompido) e um plano de recovery desse banco de dados
+- Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)**
+- Instalação do SQL Server no LINUX, arquivos de configuração, uso da memória pelo SQL Server e mais informações sobre.
 - Demonstrar o Espelhamento de banco de dados
-- Demonstrar a Replicação de banco de dados
 - Demonstrar o uso do Resource Governor
 - Demonstrar o uso do Gerenciador de Políticas
 
