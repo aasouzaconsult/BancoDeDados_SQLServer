@@ -50,7 +50,7 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Gerenciador de Políticas
 
 **Equipes:**
-- Equipe 1 *(Diego Carvalho e Weskley Matos)*
+- Equipe 1 *(Diego Carvalho, Weskley Matos e Felipe Barroso)*
 - Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan Carvalho+)*
 - Equipe 3 *(Marcos Vinicio, Mayara Cristina e Diego Camara)*
 - Equipe 4 *(Michelly Sodre e Leewan Alves)*
