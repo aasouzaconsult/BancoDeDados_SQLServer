@@ -43,7 +43,7 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Plano de Manutenção (explicar ao menos 2 tarefas) **(Equipe 5)** 
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo) **(Equipe 6)** 
 - Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)**
-- Demonstrar o Espelhamento de banco de dados
+- Implementação de um modelo com Machine Learning Service no SQL Server **(Equipe 8)**
 - Demonstrar o uso do Resource Governor
 - Demonstrar o uso do Gerenciador de Políticas
 
@@ -55,6 +55,7 @@ Alguns temas sugeridos:
 - Equipe 5 *(Maria de Fátima e Romário Cesar)*
 - Equipe 6 *(Joelton Maia, Yarlisson Neves e Paulo Rubens)*
 - Equipe 7 *(Hortência Magalhães, Alana Karla e Francisco de Assis)*
+- Equipe 8 *(Helmiton Junior)*
 --------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
