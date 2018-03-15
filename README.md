@@ -44,8 +44,8 @@ Alguns temas sugeridos:
 - Demonstrar o SQL Server Profiler e do DTA (o DTA sugerindo melhorias, índices por exemplo) **(Equipe 6)** 
 - Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)**
 - Implementação de um modelo com Machine Learning Service no SQL Server **(Equipe 8)**
+- Demonstrar o uso do Gerenciador de Políticas **(Equipe 9)**
 - Demonstrar o uso do Resource Governor
-- Demonstrar o uso do Gerenciador de Políticas
 
 **Equipes:**
 - Equipe 1 *(Diego Carvalho, Weskley Matos e Felipe Barroso)*
@@ -56,6 +56,8 @@ Alguns temas sugeridos:
 - Equipe 6 *(Joelton Maia, Yarlisson Neves e Paulo Rubens)*
 - Equipe 7 *(Hortência Magalhães, Alana Karla e Francisco de Assis)*
 - Equipe 8 *(Helmiton Junior)*
+- Equipe 9 *(Markswell Menezes)*
+
 --------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
