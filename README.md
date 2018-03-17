@@ -87,16 +87,23 @@ Scripts (.sql)
 
 Trabalho 2 (Simulado da Prova)
 --------------------
+- AUTO_SHRINK
 - DBCC CHECKDB
+- PAGE_VERIFY CHECKSUM
 - SPARSE columns
 - Índices
--- B-Tree
+- BULK-LOGGED
 - Database Mail
-- FULL Text Index
+- FULL Text Index*
 - Segurança
-- Databases de sistema
+- RESTRICTED_USER
+- Roles que atuam a nível de DATABASES
+- Databases de sistema (master, model, msdb, mssqlsystemresource, tempDB)
 - Resource Governor
-- Replicação
+- Replicação (agentes de replicação, conflitos, desempenho tráfego de dados)
+- Failover Cluster
+- STANDBY (Restore)
+- DMV´s
 
 Arquivos
 --------
