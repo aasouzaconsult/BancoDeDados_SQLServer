@@ -73,11 +73,18 @@ Scripts (.sql)
 -------------
 - 9. Ambiente Replicação
 - 10. Backup
-- 12. Revisao Geral / Corrompido
 
 --------------------------------------------------------------------------------------------------
 3° Encontro
 -----------
+-----------
+Apresentação
+------------
+0. SQL Server - Administração (parte 3).pdf (será disponibilizado em 23/03/2018)
+
+Scripts (.sql)
+-------------
+- 12. Revisao Geral / Corrompido (será disponibilizado em 23/03/2018)
 
 Arquivos
 --------
