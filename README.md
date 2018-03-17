@@ -45,7 +45,6 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Reporting Services - Visão Geral e um exemplo prático **(Equipe 7)**
 - Implementação de um modelo com Machine Learning Service no SQL Server **(Equipe 8)**
 - Demonstrar o uso do Gerenciador de Políticas **(Equipe 9)**
-- Demonstrar o uso do Resource Governor
 
 **Equipes:**
 - Equipe 1 *(Diego Carvalho, Weskley Matos e Felipe Barroso)*
