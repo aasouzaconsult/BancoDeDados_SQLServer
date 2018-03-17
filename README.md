@@ -86,6 +86,19 @@ Scripts (.sql)
 -------------
 - 12. Revisao Geral / Corrompido (será disponibilizado em 23/03/2018)
 
+Trabalho 2 (Simulado da Prova)
+--------------------
+- DBCC CHECKDB
+- SPARSE columns
+- Índices
+-- B-Tree
+- Database Mail
+- FULL Text Index
+- Segurança
+- Databases de sistema
+- Resource Governor
+- Replicação
+
 Arquivos
 --------
 - 99. BaseDemonstracao.xlsx
