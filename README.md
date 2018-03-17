@@ -61,6 +61,19 @@ Alguns temas sugeridos:
 --------------------------------------------------------------------------------------------------
 2° Encontro
 -----------
+Apresentação
+------------
+0. SQL Server - Administração (parte 2).pdf
+
+Dicas
+-----
+- 11. Backup dos Servidores de Banco de Dados.pdf
+
+Scripts (.sql)
+-------------
+- 9. Ambiente Replicação
+- 10. Backup
+- 12. Revisao Geral / Corrompido
 
 --------------------------------------------------------------------------------------------------
 3° Encontro
