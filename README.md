@@ -85,7 +85,7 @@ Scripts (.sql)
 -------------
 - 12. Revisao Geral / Corrompido (será disponibilizado em 23/03/2018)
 
-Trabalho 2 (Simulado da Prova)
+Trabalho 2 (Simulado da Prova - 30 questões - Duração: 01:30hs)
 --------------------
 - AUTO_SHRINK
 - DBCC CHECKDB
