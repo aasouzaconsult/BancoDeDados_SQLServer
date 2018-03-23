@@ -79,11 +79,11 @@ Scripts (.sql)
 -----------
 Apresentação
 ------------
-0. SQL Server - Administração (parte 3).pdf (será disponibilizado em 23/03/2018)
+0. SQL Server - Administração (parte 3).pdf
 
 Scripts (.sql)
 -------------
-- 12. Revisao Geral / Corrompido (será disponibilizado em 23/03/2018)
+- 12. Revisao Geral_Corrompido
 
 Trabalho 2 (Simulado da Prova - 30 questões - Duração: 01:30hs)
 --------------------
