@@ -1,7 +1,5 @@
 # Administração de Banco de Dados
-- Alex Souza
-- Blog: https://pessoalex.wordpress.com/
-- E-mail: aasouzaconsult@gmail.com
+- Alex Souza - Blog: https://pessoalex.wordpress.com/ - mail: aasouzaconsult@gmail.com
 
 Softwares
 ---------
@@ -47,15 +45,15 @@ Alguns temas sugeridos:
 - Demonstrar o uso do Gerenciador de Políticas **(Equipe 9)**
 
 **Equipes:**
-- Equipe 1 *(Diego Carvalho, Weskley Matos e Felipe Barroso)*
-- Equipe 2 *(Ilton Junior, Paulo Henrique e Rayan Carvalho+)*
-- Equipe 3 *(Marcos Vinicio, Mayara Cristina e Diego Camara)*
-- Equipe 4 *(Michelly Sodre, Leewan Alves e Leonardo Siuna)*
-- Equipe 5 *(Maria de Fátima e Romário Cesar)*
-- Equipe 6 *(Joelton Maia, Yarlisson Neves e Paulo Rubens)*
-- Equipe 7 *(Hortência Magalhães, Alana Karla e Francisco de Assis)*
-- Equipe 8 *(Helmiton Junior)*
-- Equipe 9 *(Markswell Menezes)*
+- Equipe 1
+- Equipe 2
+- Equipe 3
+- Equipe 4
+- Equipe 5
+- Equipe 6
+- Equipe 7
+- Equipe 8
+- Equipe 9
 
 --------------------------------------------------------------------------------------------------
 2° Encontro
