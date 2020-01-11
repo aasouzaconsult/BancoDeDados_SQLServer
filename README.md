@@ -1,5 +1,5 @@
 # Administração de Banco de Dados
-- Alex Souza - Blog: https://pessoalex.wordpress.com/ - mail: aasouzaconsult@gmail.com
+- *Alex Souza* - Blog: https://pessoalex.wordpress.com/ - Mail: aasouzaconsult@gmail.com
 
 Softwares
 ---------
