@@ -1,5 +1,6 @@
-# Administração de Banco de Dados
-- *Alex Souza* - Blog: https://pessoalex.wordpress.com/ - Mail: aasouzaconsult@gmail.com
+# Administração de Banco de Dados - SQL Server
+*Conteúdo de uma Disciplina Ministrada em Curso de Pós-Graduação (FATENE)
+- Alex Souza - Blog: https://pessoalex.wordpress.com/ - Mail: aasouzaconsult@gmail.com
 
 Softwares
 ---------
