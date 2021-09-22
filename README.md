@@ -1,6 +1,6 @@
 # Administração de Banco de Dados - SQL Server
 *Conteúdo de uma Disciplina Ministrada em Curso de Pós-Graduação (FATENE)
-- Alex Souza - Blog: https://blogdozouza.wordpress.com/ - Mail: aasouzaconsult@gmail.com
+- Alex Souza - Blog: https://blogdozouza.wordpress.com/
 
 Softwares
 ---------
